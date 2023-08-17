@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Simón Vitriago. Arduino and Flutter Development :) I'm working with newest front-end frameworks like Angular, React and Vue.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "ELECTRIC SUBSTATION SIMULATOR",
+      "startDate": "2020",
+      "description": "The aim of this Project is to create a simulator using a computational tool to facilitate operations at the Cardenera Substation in Carabobo State. The simulator performs maneuvers and calculates fault currents. The substation operates as a Node II type (115TD) with voltage levels at 13.8kV and 34.5kV. The problem addressed was the lack of information on Short-Circuit values for the substation operators. The simulator, designed using MATLAB's GUI, adheres to Substation. Operator standards for maneuvers and follows IEC 60909, VDE 102 norms, and the full/superposition method for Short-Circuit Current determination. The methodology employed involves a feasible project approach, using descriptive research and a field design. Equipment at the Cardenera Substation represents the population and sample. Tests were conducted with the operators to refine the simulator. Adjustments were made according to their feedback, resulting in outcomes aligned with established standards and corroborating short-circuit values obtained via Power Factory.",
+      "images": [
+        "images/portfolio/matlab-simulator/matlab-1.png",
+        "images/portfolio/matlab-simulator/matlab-2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-matlab-plain",
+          "name": "Matlab"
+        },
+        {
+          "class": "public/images/portfolio/icons/autocad.png",
+          "name": "AutoCAD"
+        },
+        {
+          "class": "devicon-digsilentpowerfactory-plain",
+          "name": "DigSilent Power Factory"
+        }
+      ]
+    },
+    {
+      "title": "Rememesas App",
+      "startDate": "2023",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/remesas-app/remesas-1.jpeg",
+        "images/portfolio/remesas-app/remesas-2.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Real Lightsaber Pro",
+      "startDate": "2025",
+      "description": "Long life to Jedi Life!",
+      "images": [
+        "images/portfolio/adventure/lightsaber-1.png",
+        "images/portfolio/adventure/lightsaber-1.png"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelancer",
+      "title": "Digital Design and Virtual Instrumentation",
+      "years": "02.2020 - present",
+      "mainTech": [
+        "C# - Flutter"
+      ],
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Arduino",
+        "Firebase",
+        ".NET Core",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Bitel, C.A.",
+      "title": "Internet Installation Technician",
+      "years": "05.2018 - 02.2020",
+      "mainTech": [
+        "Technician"
+      ],
+      "technologies": [
+        "Internet protocol",
+        "DNS",
+        "LAN",
+        "Routing",
+        "Switching"
+      ]
+    }
+  ]
+}

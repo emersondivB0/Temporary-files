@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "description_header": "Hola",
+    "description": "👋 Soy Simón Vitriago. Desarrollador en Arduino y Flutter :) Trabajo con los frameworks más nuevos en el front-end, como Angular, React y Vue.",
+    "section_name": {
+      "about": "Sobre mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
+    }
+  },
+  "projects": [
+    {
+      "title": "SIMULADOR DE SUBESTACIÓN ELÉCTRICA",
+      "startDate": "2020",
+      "description": "El objetivo de este proyecto es crear un simulador utilizando una herramienta computacional para facilitar las operaciones en la Subestación Cardenera en el Estado Carabobo. El simulador realiza maniobras y calcula corrientes de falla. La subestación opera como un tipo de Nodo II (115TD) con niveles de voltaje de 13.8kV y 34.5kV. El problema abordado fue la falta de información sobre los valores de Cortocircuito para los operadores de la subestación. El simulador, diseñado utilizando la interfaz gráfica de MATLAB, cumple con los estándares de los Operadores de Subestaciones para maniobras y sigue las normas IEC 60909, VDE 102, y el método de superposición para la determinación de Corrientes de Cortocircuito. La metodología empleada involucra un enfoque de proyecto factible, utilizando investigación descriptiva y un diseño de campo. El equipamiento en la Subestación Cardenera representa la población y la muestra. Se realizaron pruebas con los operadores para perfeccionar el simulador. Los ajustes se realizaron según sus comentarios, lo que resultó en resultados alineados con los estándares establecidos y que corroboran los valores de cortocircuito obtenidos a través de Power Factory.",
+      "images": [
+        "images/portfolio/matlab-simulator/matlab-1.png",
+        "images/portfolio/matlab-simulator/matlab-2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "APP de REMESAS",
+      "startDate": "2023",
+      "description": "Este proyecto es una aplicación para gestionar cambios de monedas entre Chile, Colombia y Perú. Utilicé Flutter para toda la estructura y Firebase para la persistencia de datos.",
+      "images": [
+        "images/portfolio/remesas-app/remesas-1.jpeg",
+        "images/portfolio/remesas-app/remesas-2.jpeg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Sable Láser Pro",
+      "startDate": "2015",
+      "description": "Larga vida a la vida de Jedi!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - obecnie",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Stażystka",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
