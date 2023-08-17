@@ -8,8 +8,6 @@
 <br/>
 
 
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
-
 <h3>:books: Getting started</h3>
 
 1. Clone or fork project.
